@@ -1,0 +1,14 @@
+#EXTM3U			
+#EXTINF:-1,MTV1 (Testing)
+https://video.1tv.com/clips/20130506/10400_loya-zvezdy.mp4
+#EXTINF:-1,MTV2 (Testing)
+https://video.1tv.com/clips/20180827/23140_muz1_vassel-rooby-like-magnetsonline_tv/muz1_vassel-rooby-like-magnetsonline_tv_1280x720.mp4
+#EXTINF:-1,MTV3 (Testing)
+https://video.1tv.com/clips/20210621/28084_muz1_little_big-everybody/muz1_little_big-everybody_1280x720.mp4
+
+#EXTINF:-1 ,SPORTSTAR 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
